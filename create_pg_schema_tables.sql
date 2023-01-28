@@ -1,3 +1,4 @@
+-- Staging schema and tables on PosgreSQL used to save Spark processed data coming from Kafka
 -- Create schema RUSLAN_SALIAHOFF_YANDEX_RU__STAGING
 CREATE SCHEMA RUSLAN_SALIAHOFF_YANDEX_RU__STAGING;
 -- Create table RUSLAN_SALIAHOFF_YANDEX_RU__STAGING.transactions. Don't use any constrains as well as primary key for staging.
