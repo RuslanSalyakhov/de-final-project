@@ -2,6 +2,7 @@
 Final project of Data engineering specialization at Yandex Practicum.
 
 ![Image](https://user-images.githubusercontent.com/45723128/215292216-fcfdc6b5-4fe1-45c2-93cb-126d7f954681.png)
+**S3 complete pipeline using DAG**  *(Kafka variant done up to staging to Postgres step)*
 
 Step 1: Investigate S3 data  (As a data source Kafka and PostgreSQL options also available). 
 
