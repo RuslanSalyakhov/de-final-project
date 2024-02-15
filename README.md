@@ -1,5 +1,5 @@
 # de-final-project
-Final project of Data engineering specialization at Yandex Practicum.
+Final project of Data engineering specialization (Beta test version) at Yandex Practicum.
 
 ![Image](https://user-images.githubusercontent.com/45723128/215292216-fcfdc6b5-4fe1-45c2-93cb-126d7f954681.png)
 **S3 complete pipeline using DAG**  *(Kafka variant done up to staging to Postgres step)*
